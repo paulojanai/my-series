@@ -1,0 +1,35 @@
+.content{
+    background-color: rgb(246, 246, 246);
+    padding: 60px 0px 50px 100px;
+    margin: 20px;
+    border-radius: 8px;
+    
+}
+.text-title {
+    font-weight: 900;
+    color: rgb(71, 71, 71);
+    font-size: 22px;
+}
+
+.sub-title{
+    font-size: 12px;
+    color: rgb(148, 148, 148);
+}
+
+.navHeader{
+    background-color: rgb(31, 31, 31);
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-bottom: 14px;
+}
+
+.navItem{
+    color: white !important;
+    padding: 17px;
+    margin-right: 30px;
+}
+
+.navItem:hover, .navItemActive{
+    background-color: rgb(47, 47, 47);
+    cursor: pointer;
+}
