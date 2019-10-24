@@ -5,20 +5,20 @@ import { Layout } from 'antd'
 const { Content } = Layout
 
 function Body () {
-  return (
-    <Layout>
-        <Content
+return (
+   <Layout>
+      <Content
             style={{
             margin: '24px 16px',
             padding: 24,
             background: '#fff',
             minHeight: 280,
             }}
-        >
-        
-        </Content>
-    </Layout>
-  );
+      >
+      
+      </Content>
+   </Layout>
+);
 }
 
 export default Body
